@@ -37,10 +37,23 @@ Both datasets are sourced from [Kaggle IPL Dataset](https://www.kaggle.com/datas
 
 ## 📊 Sample Visualizations
 
-![Matches per Season](screenshots/matches_per_season.png)
-![Top Batsmen](screenshots/top_batsmen.png)
-![Toss vs Win](screenshots/toss_vs_win.png)
+### Matches per season
+![Matches per Season]https://github.com/rejothomas1/IPL-Cricket-ML-Analysis/raw/main/matches_per_season.png 
 
+### Top Batsman
+![Top Batsmen]https://github.com/rejothomas1/IPL-Cricket-ML-Analysis/raw/main/top_run_scorers.png
+
+### Toss vs Win
+![Toss vs Win]https://github.com/rejothomas1/IPL-Cricket-ML-Analysis/raw/main/toss_vs_win.png
+
+### Top Bowler
+![Top bowler]https://github.com/rejothomas1/IPL-Cricket-ML-Analysis/raw/main/top_wicket_takers.png 
+
+### Feature importance matrix
+![feature importance]https://github.com/rejothomas1/IPL-Cricket-ML-Analysis/raw/main/feature_importance_rf.png 
+
+### Confusion matrix
+![confusion matrix]https://github.com/rejothomas1/IPL-Cricket-ML-Analysis/raw/main/confusion_matrix_winner_prediction.png 
 
 ## 📌 How to Run
 1. Clone this repo or open ipl_analysis.ipynb in Google Colab
